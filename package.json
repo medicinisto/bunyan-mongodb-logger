@@ -17,8 +17,8 @@
     "logger"
   ],
   "dependencies": {
-    "bunyan": "1.8.5",
-    "mongodb": "2.0.48",
+    "bunyan": "^2.0.2",
+    "mongodb": "^2.2.x",
     "stream-to-mongo": "^0.1.5"
   },
   "devDependencies": {
